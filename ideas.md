@@ -5,3 +5,5 @@
 - cross executor behavior
 - passing data out of ginkgo
 - factories
+- custom ginkgo linop
+- const correctness in ginkgo
