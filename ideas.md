@@ -1,10 +1,11 @@
 - logging (using, writing custom logger)
 - configure, build and install
   - discussing the cmake options
-- smart pointers and ownership [done - 2024.12.04]
+- ~~smart pointers and ownership~~ [done - 2024.12.04]
 - cross executor behavior
 - passing data out of ginkgo
 - factories
-- custom ginkgo linop [done - 2024.12.11]
+- ~~custom ginkgo linop~~ [done - 2024.12.11]
 - const correctness in ginkgo
 - distributed ginkgo
+- file configuration
