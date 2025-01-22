@@ -1,4 +1,5 @@
-- logging (using, writing custom logger)
+- ~~using loggers~~ [done - 2025.01.22]
+- writing custom logger
 - configure, build and install
   - discussing the cmake options
 - ~~smart pointers and ownership~~ [done - 2024.12.04]
